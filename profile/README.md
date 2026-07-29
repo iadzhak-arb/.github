@@ -78,9 +78,6 @@ docker compose up --build -d
 ├── frontend/          # Веб-клиент
 ├── backend/           # серверное API
 ├── scanner/           # Сканер рынка
-├── monitoring/        # Мониторинг
-├── auth/              # Аутентификация
-├── arb-trader/        # Торговый модуль
 ├── docker-compose.yml # Конфигурация Docker
 └── nginx.conf         # Конфигурация Nginx
 ```
