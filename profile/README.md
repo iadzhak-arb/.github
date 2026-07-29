@@ -50,9 +50,9 @@
 
 | Репозиторий   | Описание                          | Ссылка              |
 |---------------|-----------------------------------|---------------------|
-| **frontend**  | Клиентское приложение (React)     | [frontend](./frontend/)         |
-| **backend**   | Серверная часть (Django)          | [backend](./backend/)           |
-| **scanner**   | Сканер рынка                      | [scanner](./scanner/)           |
+| **frontend**  | Клиентское приложение (React)     | [frontend](https://github.com/iadzhak-arb/frontend)         |
+| **backend**   | Серверная часть (Django)          | [backend](https://github.com/iadzhak-arb/backend)           |
+| **scanner**   | Сканер рынка                      | [scanner](https://github.com/iadzhak-arb/scanner)           |
 
 ## Быстрый старт
 
